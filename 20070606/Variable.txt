@@ -1,0 +1,31 @@
+   SG2.Cells[0 , 0] := 'Процессы';
+   SG2.Cells[0 , 1] := 'FTP журналы';
+   SG2.Cells[0 , 2] := 'FTP чеки';
+   SG2.Cells[0 , 3] := 'FTP прочие';
+   SG2.Cells[0 , 4] := 'BILBO';
+   SG2.Cells[0 , 5] := 'Обр.журналов';
+   SG2.Cells[0 , 6] := 'Обр.чеков';
+
+   SG2.ColWidths[0] := 70;
+   SG2.ColWidths[1] := 80;
+   SG2.ColWidths[2] := 100;
+   SG2.ColWidths[3] := 80;
+   SG2.ColWidths[4] := 80;
+   SG2.ColWidths[5] := 90;
+   SG2.ColWidths[6] := 80;
+   SG2.Cells[0 , 0] := 'Действие';
+   SG2.Cells[1 , 0] := 'Всего файлов';
+   SG2.Cells[2 , 0] := 'Осталось файлов';
+   SG2.Cells[3 , 0] := '';
+   SG2.Cells[4 , 0] := 'Текущий файл';
+   SG2.Cells[5 , 0] := 'Ход процесса';
+   SG2.Cells[6 , 0] := 'Всего ошибок';
+
+
+fCurrFileFTP		: String;
+fCountFileFTP		: Integer;
+fCurrCountFileFTP	: Integer;
+fSizeCurrFileFTP	: DWORD;
+fCurrReceiveFileFTP	: DWORD;
+fAllSizeFileFTP	: DWORD;
+fAllCurrReceiveFileFTP	: DWORD;

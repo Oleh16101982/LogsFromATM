@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2007.04.27 14:22:09.633.pas,C:\Documents and Settings\BaranovO\Мои документы\Borland Studio Projects\Unit3.pas=D:\Project\LogsFromATM\20070615\main.pas</Transaction>
+    <Transaction>2007.04.27 14:22:09.633.dfm,C:\Documents and Settings\BaranovO\Мои документы\Borland Studio Projects\Unit3.dfm=D:\Project\LogsFromATM\20070615\main.dfm</Transaction>
+    <Transaction>2007.04.27 14:22:20.883.bdsproj,C:\Documents and Settings\BaranovO\Мои документы\Borland Studio Projects\Project3.bdsproj=D:\Project\LogsFromATM\20070615\LogFromATM.bdsproj</Transaction>
+    <Transaction>2007.04.30 15:49:37.915.pas,D:\Project\LogsFromATM\20070615\Unit1.pas=D:\Project\LogsFromATM\20070615\clThCopyBilbo1.pas</Transaction>
+    <Transaction>2007.05.04 19:00:26.963.pas,D:\Project\LogsFromATM\20070615\Unit1.pas=D:\Project\LogsFromATM\20070615\clATMSheet1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
